@@ -1,0 +1,457 @@
+{
+ "voice": "af_heart",
+ "speed": 0.95,
+ "scenes": [
+  {
+   "id": "s1",
+   "title": "Two mouths and a throat",
+   "title_ja": "二つの口と、のど",
+   "lines": [
+    {
+     "id": "1.1",
+     "say": "In Einstein's theory of gravity, a wormhole is a tunnel through space with two openings, called mouths.",
+     "en": "In Einstein's theory of gravity, a wormhole is a tunnel through space with two openings, called mouths.",
+     "ja": "アインシュタインの重力の理論では、ワームホールは、二つの出入り口を持つ空間のトンネルです。出入り口を「口」と呼びます。"
+    },
+    {
+     "id": "1.2",
+     "say": "A signal can go from one mouth to the other in two ways: through the tunnel, called the throat, or through ordinary space outside.",
+     "en": "A signal can go from one mouth to the other in two ways: through the tunnel, called the throat, or through ordinary space outside.",
+     "ja": "信号は、一方の口からもう一方へ、二つの道で行けます。トンネルの中、つまり「のど」を通る道と、外のふつうの空間を通る道です。"
+    },
+    {
+     "id": "1.3",
+     "say": "For a signal to pass, something must hold the throat open. In the model of this video, quantum fields hold it open.",
+     "en": "For a signal to pass, something must hold the throat open. In the model of this video, quantum fields hold it open.",
+     "ja": "信号が通るには、何かがのどを開いたままにしなければなりません。この動画のモデルでは、量子の場がのどを開いています。"
+    },
+    {
+     "id": "1.4",
+     "say": "For three decades, physicists have argued about one question: do quantum fields stop such a wormhole from becoming a time machine?",
+     "en": "For three decades, physicists have argued about one question: do quantum fields stop such a wormhole from becoming a time machine?",
+     "ja": "物理学者たちは 30 年にわたり、一つの問いを論じてきました。量子の場は、こうしたワームホールがタイムマシンになるのを止めるのか。"
+    },
+    {
+     "id": "1.5",
+     "say": "A twenty twenty-six paper takes one model of such a wormhole, pushes the clocks of its two mouths apart, and asks what the fields do.",
+     "en": "A 2026 paper takes one model of such a wormhole, pushes the clocks of its two mouths apart, and asks what the fields do.",
+     "ja": "2026 年のある論文は、こうしたワームホールのモデルを一つ取り、二つの口の時計をずらして、場が何をするかを問いました。"
+    },
+    {
+     "id": "1.6",
+     "say": "The paper does not say whether time travel is possible. Everything in this video is about one model.",
+     "en": "The paper does not say whether time travel is possible. Everything in this video is about one model.",
+     "ja": "論文は、時間旅行ができるかどうかを述べていません。この動画の話は、全て一つのモデルについてのものです。"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Two clocks and two margins",
+   "title_ja": "二つの時計と、二つのゆとり",
+   "lines": [
+    {
+     "id": "2.1",
+     "say": "Each mouth has its own clock. Suppose that mouth one sits deeper in a well of gravity than mouth two.",
+     "en": "Each mouth has its own clock. Suppose that mouth 1 sits deeper in a well of gravity than mouth 2.",
+     "ja": "それぞれの口には、自分の時計があります。口 1 が、口 2 よりも重力の井戸の深い所にあるとします。"
+    },
+    {
+     "id": "2.2",
+     "say": "Then the clock of mouth one runs slower. The paper calls this difference the drive, delta.",
+     "en": "Then the clock of mouth 1 runs slower. The paper calls this difference the drive, δ.",
+     "ja": "すると、口 1 の時計は遅れて進みます。論文は、この違いを「駆動」と呼び、δ で表します。"
+    },
+    {
+     "id": "2.3",
+     "say": "The clock of mouth one runs at e to the minus delta times the rate of mouth two. With delta equal to one, that is about zero point three seven.",
+     "en": "The clock of mouth 1 runs at e^−δ times the rate of mouth 2. With δ = 1, that is about 0.37.",
+     "ja": "口 1 の時計は、口 2 の e^−δ 倍の速さで進みます。δ = 1 なら、約 0.37 倍です。"
+    },
+    {
+     "id": "2.4",
+     "say": "So a time shift builds up between the two clocks. If nothing pushed back, it would keep growing at a steady rate.",
+     "en": "So a time shift builds up between the two clocks. If nothing pushed back, it would keep growing at a steady rate.",
+     "ja": "そのため、二つの時計の間に、時間のずれがたまっていきます。押し返すものが何も無ければ、ずれは一定の速さで増え続けます。"
+    },
+    {
+     "id": "2.5",
+     "say": "In this model, the throat is long. Light takes more time through the throat than through the outside.",
+     "en": "In this model, the throat is long. Light takes more time through the throat than through the outside.",
+     "ja": "このモデルでは、のどは長いのです。光は、外を通るよりも、のどを通る方が時間がかかります。"
+    },
+    {
+     "id": "2.6",
+     "say": "The paper watches two margins. Margin A: how much later light arrives through the throat than through the outside, as the clocks of the mouths measure it.",
+     "en": "The paper watches two margins. Margin A: how much later light arrives through the throat than through the outside, as the clocks of the mouths measure it.",
+     "ja": "論文は、二つのゆとりを見張ります。ゆとり A は、口の時計で測って、のどを通った光が、外を通った光よりどれだけ遅れて着くかです。"
+    },
+    {
+     "id": "2.7",
+     "say": "Margin B: how long light takes to go once around, through the throat and back outside. A time shift makes this loop shorter in one direction.",
+     "en": "Margin B: how long light takes to go once around, through the throat and back outside. A time shift makes this loop shorter in one direction.",
+     "ja": "ゆとり B は、光がのどを通って外を戻り、ひと回りするのにかかる時間です。時間のずれは、一方の向きのひと回りを短くします。"
+    },
+    {
+     "id": "2.8",
+     "say": "If A falls to zero, or B goes to zero, a path of light could close on itself. The paper calls this the model's threshold for closed null curves.",
+     "en": "If A falls to zero, or B goes to zero, a path of light could close on itself. The paper calls this the model's threshold for closed null curves.",
+     "ja": "A がゼロまで下がるか、B がゼロに近づくと、光の道が自分自身に閉じうるのです。論文は、これをモデルの「閉じた光的曲線のしきい」と呼びます。",
+     "fix": [
+      [
+       "ɪf ɐ fˈɔːlz",
+       "ɪf ˈeɪ fˈɔːlz"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "The model",
+   "title_ja": "モデル",
+   "lines": [
+    {
+     "id": "3.1",
+     "say": "The paper uses a wormhole that Maldacena, Milekhin and Popov described in twenty eighteen.",
+     "en": "The paper uses a wormhole that Maldacena, Milekhin and Popov described in 2018.",
+     "ja": "論文は、Maldacena・Milekhin・Popov が 2018 年に示したワームホールを使います。",
+     "fix": [
+      [
+       "mˈældeɪsnə",
+       "mˌɑːldəsˈeɪnə"
+      ],
+      [
+       "mˈaɪlkhɪn",
+       "mɪljˈɛkɪn"
+      ]
+     ]
+    },
+    {
+     "id": "3.2",
+     "say": "Two black holes with opposite magnetic charges sit at a distance d. The regions near them join into one throat.",
+     "en": "Two black holes with opposite magnetic charges sit at a distance d. The regions near them join into one throat.",
+     "ja": "逆向きの磁荷を持つ二つのブラックホールが、距離 d を置いて並びます。その近くの領域がつながって、一つののどになります。"
+    },
+    {
+     "id": "3.3",
+     "say": "Charged particles called fermions move along the magnetic field lines. The lines form loops, through the throat and back outside.",
+     "en": "Charged particles called fermions move along the magnetic field lines. The lines form loops, through the throat and back outside.",
+     "ja": "フェルミオンと呼ぶ電荷を持つ粒子が、磁力線に沿って動きます。磁力線は、のどを通って外を戻る輪になっています。"
+    },
+    {
+     "id": "3.4",
+     "say": "In a closed loop, quantum fields carry a small negative energy, called Casimir energy. Here, this energy holds the throat open.",
+     "en": "In a closed loop, quantum fields carry a small negative energy, called Casimir energy. Here, this energy holds the throat open.",
+     "ja": "閉じた輪の中では、量子の場が小さな負のエネルギーを持ちます。これをカシミールエネルギーと呼びます。ここでは、このエネルギーがのどを開いています。"
+    },
+    {
+     "id": "3.5",
+     "say": "So the fields that hold the wormhole open are the same fields that feel a time shift between the mouths.",
+     "en": "So the fields that hold the wormhole open are the same fields that feel a time shift between the mouths.",
+     "ja": "つまり、ワームホールを開いている場は、口の間の時間のずれを感じる場と同じなのです。"
+    },
+    {
+     "id": "3.6",
+     "say": "The paper describes the throat with a simple two-dimensional theory of gravity, at linear order. It uses two models of the loop, called R one and R two.",
+     "en": "The paper describes the throat with a simple two-dimensional theory of gravity, at linear order. It uses two models of the loop, called R1 and R2.",
+     "ja": "論文は、のどを、2 次元の簡単な重力の理論で、1 次の近似で表します。輪のモデルは二つで、R1 と R2 と呼びます。"
+    },
+    {
+     "id": "3.7",
+     "say": "The paper does not model how the drive is produced. The drive is switched on smoothly, and in some runs it is switched off again.",
+     "en": "The paper does not model how the drive is produced. The drive is switched on smoothly, and in some runs it is switched off again.",
+     "ja": "駆動がどう生まれるかは、論文はモデルにしていません。駆動はなめらかに入れ、いくつかの計算では、また切ります。"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "The fields push back",
+   "title_ja": "場が押し返す",
+   "lines": [
+    {
+     "id": "4.1",
+     "say": "First, the paper looks at a slow limit, in which the fields keep up with every change.",
+     "en": "First, the paper looks at a slow limit, in which the fields keep up with every change.",
+     "ja": "まず論文は、ゆっくりの極限を見ます。この極限では、場が全ての変化についていきます。"
+    },
+    {
+     "id": "4.2",
+     "say": "With a time shift, fermions that go one way around the loop see a shorter loop. Those that go the other way see a longer loop.",
+     "en": "With a time shift, fermions that go one way around the loop see a shorter loop. Those that go the other way see a longer loop.",
+     "ja": "時間のずれがあると、輪を一方の向きに回るフェルミオンには、輪が短く見えます。逆の向きに回るものには、長く見えます。"
+    },
+    {
+     "id": "4.3",
+     "say": "Their Casimir energies are then different. The difference is a steady flow of energy through the throat.",
+     "en": "Their Casimir energies are then different. The difference is a steady flow of energy through the throat.",
+     "ja": "すると、両者のカシミールエネルギーが違ってきます。その差が、のどを通る、絶えないエネルギーの流れになります。"
+    },
+    {
+     "id": "4.4",
+     "say": "This flow moves mass from one mouth to the other.",
+     "en": "This flow moves mass from one mouth to the other.",
+     "ja": "この流れが、一方の口からもう一方の口へ、質量を運びます。"
+    },
+    {
+     "id": "4.5",
+     "say": "The change in mass changes the clock rates of the mouths, and this change works against the drive.",
+     "en": "The change in mass changes the clock rates of the mouths, and this change works against the drive.",
+     "ja": "質量が変わると、口の時計の進み方が変わります。この変化は、駆動に逆らう向きにはたらきます。"
+    },
+    {
+     "id": "4.6",
+     "say": "There is one point of balance. There, the clock ratio of the throat, e to the delta, cancels the drive exactly.",
+     "en": "There is one point of balance. There, the clock ratio of the throat, e^δ, cancels the drive exactly.",
+     "ja": "釣り合いの点が一つあります。そこでは、のどの時計の比 e^δ が、駆動をちょうど打ち消します。"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "No settling",
+   "title_ja": "落ち着かない",
+   "lines": [
+    {
+     "id": "5.1",
+     "say": "But the system does not settle at this point. It swings around it, again and again.",
+     "en": "But the system does not settle at this point. It swings around it, again and again.",
+     "ja": "しかし、系はこの点に落ち着きません。点の周りを、何度も何度も揺れ動きます。"
+    },
+    {
+     "id": "5.2",
+     "say": "Compare a ball that rolls in a bowl without friction. It passes the bottom, and it does not stop there.",
+     "en": "Compare a ball that rolls in a bowl without friction. It passes the bottom, and it does not stop there.",
+     "ja": "摩擦の無いお椀の中を転がる玉と比べてみましょう。玉は底を通り過ぎ、そこで止まりません。"
+    },
+    {
+     "id": "5.3",
+     "say": "The reason: the slow equations do not change when time runs backward. Near the point, they give a pure swing, with no growth and no decay.",
+     "en": "The reason: the slow equations do not change when time runs backward. Near the point, they give a pure swing, with no growth and no decay.",
+     "ja": "理由は、ゆっくりの方程式が、時間を逆向きにしても変わらないことです。点の近くでは、育ちも衰えもしない、純粋な揺れになります。"
+    },
+    {
+     "id": "5.4",
+     "say": "When the drive is switched off, the system keeps moving on a closed path. In general, it does not return to where it started.",
+     "en": "When the drive is switched off, the system keeps moving on a closed path. In general, it does not return to where it started.",
+     "ja": "駆動を切っても、系は閉じた道の上を動き続けます。ふつうは、出発した所には戻りません。"
+    },
+    {
+     "id": "5.5",
+     "say": "One caution: this limit needs slow changes, but the swing itself is not slow. The paper uses the limit only to find the mechanism.",
+     "en": "One caution: this limit needs slow changes, but the swing itself is not slow. The paper uses the limit only to find the mechanism.",
+     "ja": "一つ注意があります。この極限は、ゆっくりした変化を前提にしますが、揺れ自体はゆっくりではありません。論文は、この極限を、仕組みを見つけるためだけに使います。"
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "With the travel time of light",
+   "title_ja": "光の通る時間を入れると",
+   "lines": [
+    {
+     "id": "6.1",
+     "say": "Next, the paper adds the time that light needs to cross the loop.",
+     "en": "Next, the paper adds the time that light needs to cross the loop.",
+     "ja": "次に論文は、光が輪を渡るのにかかる時間を入れます。"
+    },
+    {
+     "id": "6.2",
+     "say": "A small disturbance can be split into modes. Each mode has a number called a root. If a root lies off the vertical line in this picture, its mode grows or dies away.",
+     "en": "A small disturbance can be split into modes. Each mode has a number called a root. If a root lies off the vertical line in this picture, its mode grows or dies away.",
+     "ja": "小さな乱れは、いくつかのモードに分けられます。それぞれのモードには、根と呼ぶ数があります。根がこの図の縦の線から外れていれば、そのモードは育つか、消えていきます。"
+    },
+    {
+     "id": "6.3",
+     "say": "In each of the twelve cases, the twenty-eight roots inside the counting region lie exactly on the line. Three of them come from the method itself.",
+     "en": "In each of the 12 cases, the 28 roots inside the counting region lie exactly on the line. Three of them come from the method itself.",
+     "ja": "12 の場合のそれぞれで、数える範囲の中の 28 の根は、ちょうど線の上にあります。そのうち三つは、方法そのものから来るものです。"
+    },
+    {
+     "id": "6.4",
+     "say": "Exact checks, including interval arithmetic, confirm this. So no counted mode decays or grows.",
+     "en": "Exact checks, including interval arithmetic, confirm this. So no counted mode decays or grows.",
+     "ja": "区間演算を含む厳密な確かめが、これを裏づけます。数えたモードは、どれも衰えず、育ちもしません。"
+    },
+    {
+     "id": "6.5",
+     "say": "After the drive stops, the slow swing turns into a root whose pattern matches a boost, a change of viewpoint inside the throat.",
+     "en": "After the drive stops, the slow swing turns into a root whose pattern matches a boost: a change of viewpoint inside the throat.",
+     "ja": "駆動が止まった後、ゆっくりの揺れは、ある根につながります。その形は、ブースト、つまりのどの中での見方の変え方と一致します。"
+    },
+    {
+     "id": "6.6",
+     "say": "In a related theory, such changes are not physical. The paper does not settle this, so it does not claim the slow swing as a physical mode.",
+     "en": "In a related theory, such changes are not physical. The paper does not settle this, so it does not claim the slow swing as a physical mode.",
+     "ja": "関連する理論では、そうした変え方は物理的ではありません。論文はこの点を決着させていないので、ゆっくりの揺れを物理的なモードだとは主張しません。"
+    },
+    {
+     "id": "6.7",
+     "say": "Then the full equations are run, for drives of zero point zero zero one, zero point zero one, and zero point one. That makes eighteen runs.",
+     "en": "Then the full equations are run, for drives of 0.001, 0.01 and 0.1. That makes 18 runs.",
+     "ja": "次に、完全な方程式を、駆動 0.001、0.01、0.1 で解きます。合わせて 18 の計算です。"
+    },
+    {
+     "id": "6.8",
+     "say": "For fifty swings after the drive is switched on, or off, both margins stay positive.",
+     "en": "For 50 swings after the drive is switched on, or off, both margins stay positive.",
+     "ja": "駆動を入れた後、または切った後の 50 回の揺れの間、二つのゆとりはどちらも正のままです。"
+    },
+    {
+     "id": "6.9",
+     "say": "The time shift reaches at most zero point four to zero point five times delta, while the drive is switched on or off. After the drive stops, a swing remains.",
+     "en": "The time shift reaches at most 0.4 to 0.5 times δ, while the drive is switched on or off. After the drive stops, a swing remains.",
+     "ja": "時間のずれは、最大で δ の 0.4〜0.5 倍で、駆動を入れるときか切るときに達します。駆動が止まった後も、揺れが残ります。"
+    },
+    {
+     "id": "6.10",
+     "say": "For the two smallest drives, this says little. Even with no push back, the shift would not reach the threshold in the same time, in all but one case.",
+     "en": "For the two smallest drives, this says little. Even with no push back, the shift would not reach the threshold in the same time, in all but one case.",
+     "ja": "いちばん小さい二つの駆動では、これはあまり多くを語りません。押し返しが無くても、一つの場合を除き、同じ時間ではずれはしきいに届かないからです。"
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Larger drives",
+   "title_ja": "大きな駆動",
+   "lines": [
+    {
+     "id": "7.1",
+     "say": "The paper then raises the drive to zero point two, zero point three, zero point six and one. That is forty-eight more runs.",
+     "en": "The paper then raises the drive to 0.2, 0.3, 0.6 and 1. That is 48 more runs.",
+     "ja": "次に論文は、駆動を 0.2、0.3、0.6、1 に上げます。さらに 48 の計算です。"
+    },
+    {
+     "id": "7.2",
+     "say": "In the windows fixed in advance, both margins stay positive. The smallest values are one point one six for A, and two point zero three for B.",
+     "en": "In the windows fixed in advance, both margins stay positive. The smallest values are 1.16 for A and 2.03 for B.",
+     "ja": "前もって決めた区間の中で、二つのゆとりは正のままです。いちばん小さい値は、A が 1.16、B が 2.03 です。",
+     "fix": [
+      [
+       "fɚɹə, ænd",
+       "fɔːɹ ˈeɪ, ænd"
+      ]
+     ]
+    },
+    {
+     "id": "7.3",
+     "say": "So, within these runs, the model does not reach its threshold for closed null curves.",
+     "en": "So, within these runs, the model does not reach its threshold for closed null curves.",
+     "ja": "つまり、これらの計算の中では、モデルは閉じた光的曲線のしきいに届きません。"
+    },
+    {
+     "id": "7.4",
+     "say": "The largest time shift grows with the drive. At delta equal to one, it is zero point four two one.",
+     "en": "The largest time shift grows with the drive. At δ = 1, it is 0.421.",
+     "ja": "時間のずれの最大は、駆動とともに大きくなります。δ = 1 では 0.421 です。"
+    },
+    {
+     "id": "7.5",
+     "say": "Two runs stopped early, at a numerical limit of the time steps. The paper says nothing about them after that point.",
+     "en": "Two runs stopped early, at a numerical limit of the time steps. The paper says nothing about them after that point.",
+     "ja": "二つの計算は、時間の刻みの数値の限界で、早めに止まりました。その点から後について、論文は何も述べていません。"
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Is the description still valid?",
+   "title_ja": "記述はまだ成り立つか",
+   "lines": [
+    {
+     "id": "8.1",
+     "say": "A model like this is valid only while some ratios stay small. The paper sets two lines: zero point one or less holds, and one or more fails.",
+     "en": "A model like this is valid only while some ratios stay small. The paper sets two lines: 0.1 or less holds, and 1 or more fails.",
+     "ja": "こうしたモデルが成り立つのは、いくつかの比が小さいうちだけです。論文は二つの線を引きます。0.1 以下なら成り立ち、1 以上なら破れます。"
+    },
+    {
+     "id": "8.2",
+     "say": "These lines are conventions, fixed before the computation. They are not physical thresholds.",
+     "en": "These lines are conventions, fixed before the computation. They are not physical thresholds.",
+     "ja": "この線は、計算の前に決めた約束事です。物理的なしきい値ではありません。"
+    },
+    {
+     "id": "8.3",
+     "say": "At delta equal to one, one ratio, S eight, reaches one in five of six cases, before the margins fail. Taken alone, this would say that the description breaks down.",
+     "en": "At δ = 1, one ratio, S8, reaches 1 in five of six cases, before the margins fail. Taken alone, this would say that the description breaks down.",
+     "ja": "δ = 1 では、比の一つ S8 が、六つのうち五つの場合で、ゆとりが尽きる前に 1 に達します。これだけを見れば、記述が破れることになります。"
+    },
+    {
+     "id": "8.4",
+     "say": "But S eight depends on how the points of the throat are labelled. A boost, a change of viewpoint, can change it.",
+     "en": "But S8 depends on how the points of the throat are labelled. A boost, a change of viewpoint, can change it.",
+     "ja": "しかし S8 は、のどの点にどう目盛りを付けるかによります。見方の変え方であるブーストで、値が変わりうるのです。"
+    },
+    {
+     "id": "8.5",
+     "say": "So the paper builds new ratios from what each mouth measures with its own clock. A boost does not change them.",
+     "en": "So the paper builds new ratios from what each mouth measures with its own clock. A boost does not change them.",
+     "ja": "そこで論文は、それぞれの口が自分の時計で測る量から、新しい比を作ります。ブーストでは、これらは変わりません。"
+    },
+    {
+     "id": "8.6",
+     "say": "With these ratios, the largest value at delta equal to one is zero point six six six. That is below one.",
+     "en": "With these ratios, the largest value at δ = 1 is 0.666. That is below 1.",
+     "ja": "これらの比では、δ = 1 での最大は 0.666 です。1 より小さい値です。"
+    },
+    {
+     "id": "8.7",
+     "say": "With these ratios, a value of one comes only from two fixed ratios, S two and S three. They are set by the number of fermions and the coupling, before any drive.",
+     "en": "With these ratios, a value of 1 comes only from two fixed ratios, S2 and S3. They are set by the number of fermions and the coupling, before any drive.",
+     "ja": "これらの比を使うと、1 に達するのは、二つの固定した比 S2 と S3 だけです。これらは、駆動の前から、フェルミオンの数と結合の強さで決まっています。"
+    },
+    {
+     "id": "8.8",
+     "say": "At the larger drives, most cases are undecided, inside the band from zero point one to one. No case reached the verdicts stops, or does not stop.",
+     "en": "At the larger drives, most cases are undecided, inside the band from 0.1 to 1. No case reached the verdicts “stops” or “does not stop”.",
+     "ja": "大きな駆動では、ほとんどの場合が、0.1 から 1 の帯の中で未決です。「止まる」や「止まらない」の判定に届いた場合はありません。"
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "What the paper does not claim",
+   "title_ja": "論文が主張しないこと",
+   "lines": [
+    {
+     "id": "9.1",
+     "say": "The paper does not say whether time travel is possible, or whether the chronology protection conjecture holds.",
+     "en": "The paper does not say whether time travel is possible, or whether the chronology protection conjecture holds.",
+     "ja": "論文は、時間旅行ができるかどうかも、時間順序保護予想が正しいかどうかも、述べていません。"
+    },
+    {
+     "id": "9.2",
+     "say": "All its statements hold in one model, for the loops, drives and run windows that were computed.",
+     "en": "All its statements hold in one model, for the loops, drives and run windows that were computed.",
+     "ja": "論文の言明は全て、一つのモデルの中で、計算した輪・駆動・計算の区間についてのものです。"
+    },
+    {
+     "id": "9.3",
+     "say": "Some effects are not in the model, for example radiation from the mouths. They could take energy away from the swing. The lack of damping belongs to the closed model.",
+     "en": "Some effects are not in the model, for example radiation from the mouths. They could take energy away from the swing. The lack of damping belongs to the closed model.",
+     "ja": "モデルに入っていない効果があります。たとえば口からの放射です。それらは揺れからエネルギーを奪うかもしれません。揺れが衰えないのは、閉じたモデルの性質です。"
+    },
+    {
+     "id": "9.4",
+     "say": "The lines zero point one and one are conventions. And the new ratios are one choice, not the only correct one.",
+     "en": "The lines 0.1 and 1 are conventions. And the new ratios are one choice, not the only correct one.",
+     "ja": "0.1 と 1 の線は約束事です。そして新しい比は、一つの選び方であって、唯一の正しいものではありません。"
+    },
+    {
+     "id": "9.5",
+     "say": "To read the paper, look up this D O I. The paper, the code and the records are on Zenodo.",
+     "en": "To read the paper, look up this DOI. The paper, the code and the records are on Zenodo.",
+     "ja": "論文を読むには、この DOI を引いてください。論文・コード・記録は Zenodo にあります。"
+    },
+    {
+     "id": "9.6",
+     "say": "This video was made with the help of AI. The voice is synthetic.",
+     "en": "This video was made with the help of AI. The voice is synthetic.",
+     "ja": "この動画は AI の助けを借りて作りました。声は合成音声です。"
+    }
+   ]
+  }
+ ]
+}

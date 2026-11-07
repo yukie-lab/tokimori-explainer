@@ -1,0 +1,59 @@
+{
+ "duration": 491.2,
+ "chapters": [
+  {
+   "id": "s1",
+   "title": "Two mouths and a throat",
+   "title_ja": "二つの口と、のど",
+   "start": 0.0
+  },
+  {
+   "id": "s2",
+   "title": "Two clocks and two margins",
+   "title_ja": "二つの時計と、二つのゆとり",
+   "start": 49.93
+  },
+  {
+   "id": "s3",
+   "title": "The model",
+   "title_ja": "モデル",
+   "start": 115.97
+  },
+  {
+   "id": "s4",
+   "title": "The fields push back",
+   "title_ja": "場が押し返す",
+   "start": 172.73
+  },
+  {
+   "id": "s5",
+   "title": "No settling",
+   "title_ja": "落ち着かない",
+   "start": 209.93
+  },
+  {
+   "id": "s6",
+   "title": "With the travel time of light",
+   "title_ja": "光の通る時間を入れると",
+   "start": 248.97
+  },
+  {
+   "id": "s7",
+   "title": "Larger drives",
+   "title_ja": "大きな駆動",
+   "start": 334.97
+  },
+  {
+   "id": "s8",
+   "title": "Is the description still valid?",
+   "title_ja": "記述はまだ成り立つか",
+   "start": 375.43
+  },
+  {
+   "id": "s9",
+   "title": "What the paper does not claim",
+   "title_ja": "論文が主張しないこと",
+   "start": 447.6
+  }
+ ]
+}

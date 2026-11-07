@@ -1,0 +1,529 @@
+WEBVTT
+
+1
+00:00:03.920 --> 00:00:05.895
+In Einstein's theory of gravity,
+
+2
+00:00:05.895 --> 00:00:10.215
+a wormhole is a tunnel through space with two openings, called mouths.
+
+3
+00:00:10.653 --> 00:00:14.045
+A signal can go from one mouth to the other in two ways:
+
+4
+00:00:14.045 --> 00:00:18.467
+through the tunnel, called the throat, or through ordinary space outside.
+
+5
+00:00:18.887 --> 00:00:20.170
+For a signal to pass,
+
+6
+00:00:20.170 --> 00:00:24.083
+something must hold the throat open. In the model of this video,
+
+7
+00:00:24.083 --> 00:00:25.795
+quantum fields hold it open.
+
+8
+00:00:26.220 --> 00:00:29.965
+For three decades, physicists have argued about one question:
+
+9
+00:00:29.965 --> 00:00:34.140
+do quantum fields stop such a wormhole from becoming a time machine?
+
+10
+00:00:34.587 --> 00:00:37.845
+A 2026 paper takes one model of such a wormhole,
+
+11
+00:00:37.845 --> 00:00:42.666
+pushes the clocks of its two mouths apart, and asks what the fields do.
+
+12
+00:00:43.087 --> 00:00:45.790
+The paper does not say whether time travel is
+
+13
+00:00:45.790 --> 00:00:49.035
+possible. Everything in this video is about one model.
+
+14
+00:00:50.553 --> 00:00:53.247
+Each mouth has its own clock. Suppose that
+
+15
+00:00:53.247 --> 00:00:56.710
+mouth 1 sits deeper in a well of gravity than mouth 2.
+
+16
+00:00:57.153 --> 00:01:02.407
+Then the clock of mouth 1 runs slower. The paper calls this difference the drive, δ.
+
+17
+00:01:02.853 --> 00:01:10.524
+The clock of mouth 1 runs at e^−δ times the rate of mouth 2. With δ = 1,
+
+18
+00:01:10.524 --> 00:01:12.548
+that is about 0.37.
+
+19
+00:01:12.987 --> 00:01:17.208
+So a time shift builds up between the two clocks. If nothing pushed back,
+
+20
+00:01:17.208 --> 00:01:19.463
+it would keep growing at a steady rate.
+
+21
+00:01:20.287 --> 00:01:21.085
+In this model,
+
+22
+00:01:21.085 --> 00:01:23.422
+the throat is long. Light takes more time
+
+23
+00:01:23.422 --> 00:01:25.931
+through the throat than through the outside.
+
+24
+00:01:26.353 --> 00:01:28.785
+The paper watches two margins. Margin A:
+
+25
+00:01:28.785 --> 00:01:33.223
+how much later light arrives through the throat than through the outside,
+
+26
+00:01:33.223 --> 00:01:35.594
+as the clocks of the mouths measure it.
+
+27
+00:01:36.020 --> 00:01:39.172
+Margin B: how long light takes to go once around,
+
+28
+00:01:39.172 --> 00:01:40.588
+through the throat and
+
+29
+00:01:40.588 --> 00:01:44.962
+back outside. A time shift makes this loop shorter in one direction.
+
+30
+00:01:45.387 --> 00:01:47.970
+If A falls to zero, or B goes to zero,
+
+31
+00:01:47.970 --> 00:01:51.233
+a path of light could close on itself. The paper
+
+32
+00:01:51.233 --> 00:01:55.040
+calls this the model's threshold for closed null curves.
+
+33
+00:01:56.587 --> 00:02:02.329
+The paper uses a wormhole that Maldacena, Milekhin and Popov described in 2018.
+
+34
+00:02:02.753 --> 00:02:06.329
+Two black holes with opposite magnetic charges sit at
+
+35
+00:02:06.329 --> 00:02:10.174
+a distance d. The regions near them join into one throat.
+
+36
+00:02:10.620 --> 00:02:13.427
+Charged particles called fermions move along
+
+37
+00:02:13.427 --> 00:02:16.425
+the magnetic field lines. The lines form loops,
+
+38
+00:02:16.425 --> 00:02:18.721
+through the throat and back outside.
+
+39
+00:02:19.153 --> 00:02:23.464
+In a closed loop, quantum fields carry a small negative energy,
+
+40
+00:02:23.464 --> 00:02:27.775
+called Casimir energy. Here, this energy holds the throat open.
+
+41
+00:02:28.220 --> 00:02:30.923
+So the fields that hold the wormhole open are the
+
+42
+00:02:30.923 --> 00:02:33.902
+same fields that feel a time shift between the mouths.
+
+43
+00:02:34.320 --> 00:02:39.545
+The paper describes the throat with a simple two-dimensional theory of gravity,
+
+44
+00:02:39.545 --> 00:02:43.911
+at linear order. It uses two models of the loop, called R1 and R2.
+
+45
+00:02:44.353 --> 00:02:46.766
+The paper does not model how the drive is
+
+46
+00:02:46.766 --> 00:02:49.356
+produced. The drive is switched on smoothly,
+
+47
+00:02:49.356 --> 00:02:51.827
+and in some runs it is switched off again.
+
+48
+00:02:53.353 --> 00:02:55.553
+First, the paper looks at a slow limit,
+
+49
+00:02:55.553 --> 00:02:58.147
+in which the fields keep up with every change.
+
+50
+00:02:58.587 --> 00:02:59.629
+With a time shift,
+
+51
+00:02:59.629 --> 00:03:02.291
+fermions that go one way around the loop see a
+
+52
+00:03:02.291 --> 00:03:05.765
+shorter loop. Those that go the other way see a longer loop.
+
+53
+00:03:06.187 --> 00:03:08.846
+Their Casimir energies are then different. The
+
+54
+00:03:08.846 --> 00:03:12.141
+difference is a steady flow of energy through the throat.
+
+55
+00:03:12.587 --> 00:03:15.388
+This flow moves mass from one mouth to the other.
+
+56
+00:03:15.820 --> 00:03:19.184
+The change in mass changes the clock rates of the mouths,
+
+57
+00:03:19.184 --> 00:03:21.545
+and this change works against the drive.
+
+58
+00:03:21.987 --> 00:03:24.611
+There is one point of balance. There,
+
+59
+00:03:24.611 --> 00:03:29.009
+the clock ratio of the throat, e^δ, cancels the drive exactly.
+
+60
+00:03:30.553 --> 00:03:35.252
+But the system does not settle at this point. It swings around it, again and again.
+
+61
+00:03:35.687 --> 00:03:40.212
+Compare a ball that rolls in a bowl without friction. It passes the bottom,
+
+62
+00:03:40.212 --> 00:03:41.842
+and it does not stop there.
+
+63
+00:03:42.287 --> 00:03:42.989
+The reason:
+
+64
+00:03:42.989 --> 00:03:47.652
+the slow equations do not change when time runs backward. Near the point,
+
+65
+00:03:47.652 --> 00:03:50.974
+they give a pure swing, with no growth and no decay.
+
+66
+00:03:51.420 --> 00:03:53.257
+When the drive is switched off,
+
+67
+00:03:53.257 --> 00:03:56.398
+the system keeps moving on a closed path. In general,
+
+68
+00:03:56.398 --> 00:03:58.709
+it does not return to where it started.
+
+69
+00:03:59.153 --> 00:04:02.143
+One caution: this limit needs slow changes,
+
+70
+00:04:02.143 --> 00:04:04.715
+but the swing itself is not slow. The
+
+71
+00:04:04.715 --> 00:04:08.052
+paper uses the limit only to find the mechanism.
+
+72
+00:04:09.587 --> 00:04:13.195
+Next, the paper adds the time that light needs to cross the loop.
+
+73
+00:04:13.620 --> 00:04:17.917
+A small disturbance can be split into modes. Each mode has a number
+
+74
+00:04:17.917 --> 00:04:22.277
+called a root. If a root lies off the vertical line in this picture,
+
+75
+00:04:22.277 --> 00:04:24.073
+its mode grows or dies away.
+
+76
+00:04:24.520 --> 00:04:26.126
+In each of the 12 cases,
+
+77
+00:04:26.126 --> 00:04:29.537
+the 28 roots inside the counting region lie exactly
+
+78
+00:04:29.537 --> 00:04:33.217
+on the line. Three of them come from the method itself.
+
+79
+00:04:33.653 --> 00:04:36.628
+Exact checks, including interval arithmetic,
+
+80
+00:04:36.628 --> 00:04:39.940
+confirm this. So no counted mode decays or grows.
+
+81
+00:04:40.387 --> 00:04:41.783
+After the drive stops,
+
+82
+00:04:41.783 --> 00:04:45.782
+the slow swing turns into a root whose pattern matches a boost:
+
+83
+00:04:45.782 --> 00:04:48.321
+a change of viewpoint inside the throat.
+
+84
+00:04:48.753 --> 00:04:53.874
+In a related theory, such changes are not physical. The paper does not settle this,
+
+85
+00:04:53.874 --> 00:04:57.266
+so it does not claim the slow swing as a physical mode.
+
+86
+00:04:58.187 --> 00:05:01.852
+Then the full equations are run,
+
+87
+00:05:01.852 --> 00:05:08.037
+for drives of 0.001, 0.01 and 0.1. That makes 18 runs.
+
+88
+00:05:08.487 --> 00:05:13.791
+For 50 swings after the drive is switched on, or off, both margins stay positive.
+
+89
+00:05:14.220 --> 00:05:18.265
+The time shift reaches at most 0.4 to 0.5 times δ,
+
+90
+00:05:18.265 --> 00:05:24.576
+while the drive is switched on or off. After the drive stops, a swing remains.
+
+91
+00:05:25.020 --> 00:05:29.292
+For the two smallest drives, this says little. Even with no push back,
+
+92
+00:05:29.292 --> 00:05:34.053
+the shift would not reach the threshold in the same time, in all but one case.
+
+93
+00:05:35.587 --> 00:05:44.166
+The paper then raises the drive to 0.2, 0.3, 0.6 and 1. That is 48 more runs.
+
+94
+00:05:44.587 --> 00:05:47.400
+In the windows fixed in advance,
+
+95
+00:05:47.400 --> 00:05:54.259
+both margins stay positive. The smallest values are 1.16 for A and 2.03 for B.
+
+96
+00:05:54.687 --> 00:05:56.038
+So, within these runs,
+
+97
+00:05:56.038 --> 00:05:59.848
+the model does not reach its threshold for closed null curves.
+
+98
+00:06:00.287 --> 00:06:06.855
+The largest time shift grows with the drive. At δ = 1, it is 0.421.
+
+99
+00:06:07.287 --> 00:06:08.756
+Two runs stopped early,
+
+100
+00:06:08.756 --> 00:06:11.503
+at a numerical limit of the time steps. The
+
+101
+00:06:11.503 --> 00:06:14.506
+paper says nothing about them after that point.
+
+102
+00:06:16.053 --> 00:06:19.392
+A model like this is valid only while some
+
+103
+00:06:19.392 --> 00:06:22.890
+ratios stay small. The paper sets two lines:
+
+104
+00:06:22.890 --> 00:06:25.990
+0.1 or less holds, and 1 or more fails.
+
+105
+00:06:26.420 --> 00:06:28.160
+These lines are conventions,
+
+106
+00:06:28.160 --> 00:06:32.076
+fixed before the computation. They are not physical thresholds.
+
+107
+00:06:32.520 --> 00:06:36.793
+At δ = 1, one ratio, S8, reaches 1 in five of six cases,
+
+108
+00:06:36.793 --> 00:06:39.616
+before the margins fail. Taken alone,
+
+109
+00:06:39.616 --> 00:06:43.278
+this would say that the description breaks down.
+
+110
+00:06:43.720 --> 00:06:47.971
+But S8 depends on how the points of the throat are labelled. A boost,
+
+111
+00:06:47.971 --> 00:06:50.251
+a change of viewpoint, can change it.
+
+112
+00:06:50.687 --> 00:06:53.807
+So the paper builds new ratios from what each mouth
+
+113
+00:06:53.807 --> 00:06:57.355
+measures with its own clock. A boost does not change them.
+
+114
+00:06:57.787 --> 00:07:05.125
+With these ratios, the largest value at δ = 1 is 0.666. That is below 1.
+
+115
+00:07:05.553 --> 00:07:10.161
+With these ratios, a value of 1 comes only from two fixed ratios,
+
+116
+00:07:10.161 --> 00:07:13.918
+S2 and S3. They are set by the number of fermions and
+
+117
+00:07:13.918 --> 00:07:16.115
+the coupling, before any drive.
+
+118
+00:07:16.553 --> 00:07:20.129
+At the larger drives, most cases are undecided,
+
+119
+00:07:20.129 --> 00:07:23.019
+inside the band from 0.1 to 1. No case
+
+120
+00:07:23.019 --> 00:07:26.670
+reached the verdicts “stops” or “does not stop”.
+
+121
+00:07:27.720 --> 00:07:30.982
+The paper does not say whether time travel is possible,
+
+122
+00:07:30.982 --> 00:07:34.185
+or whether the chronology protection conjecture holds.
+
+123
+00:07:34.620 --> 00:07:37.732
+All its statements hold in one model, for the loops,
+
+124
+00:07:37.732 --> 00:07:40.245
+drives and run windows that were computed.
+
+125
+00:07:40.687 --> 00:07:42.781
+Some effects are not in the model,
+
+126
+00:07:42.781 --> 00:07:46.537
+for example radiation from the mouths. They could take energy
+
+127
+00:07:46.537 --> 00:07:50.787
+away from the swing. The lack of damping belongs to the closed model.
+
+128
+00:07:51.220 --> 00:07:56.576
+The lines 0.1 and 1 are conventions. And the new ratios are one choice,
+
+129
+00:07:56.576 --> 00:07:58.462
+not the only correct one.
+
+130
+00:07:58.887 --> 00:08:01.990
+To read the paper, look up this DOI. The paper,
+
+131
+00:08:01.990 --> 00:08:04.565
+the code and the records are on Zenodo.
+
+132
+00:08:04.987 --> 00:08:08.888
+This video was made with the help of AI. The voice is synthetic.
